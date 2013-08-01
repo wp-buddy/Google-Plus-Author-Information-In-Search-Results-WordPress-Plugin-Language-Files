@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google+ Author Information in Search Results WordPress "
+"Plugin\n"
+"POT-Creation-Date: 2013-08-01 10:35+0100\n"
+"PO-Revision-Date: 2013-08-01 10:35+0100\n"
+"Last-Translator: Florian Simeth <florian.simeth@online.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../classes/wpb_google_author.php:198
+msgid "Google+ Author Information"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:221
+msgid "General"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:224
+msgid "Help"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:227
+msgid "Test Authorship"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:230
+#: ../../classes/wpb_google_author.php:559
+msgid "Settings"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:233
+msgid "About"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:236
+msgid "Helpful links"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:239
+msgid "Like this plugin?"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:242
+msgid "Keep up-to-date"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:248
+msgid "Google+ Author Information Settings"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:441
+msgid "Could not test this page."
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:447
+msgid "Please choose at least one post type below."
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:478
+#, php-format
+msgid ""
+"The page with the URL %1$s could not be verified. The site delivered a page "
+"with the status code %2$s (%3$s)."
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:483
+msgid "The page you have selected seems to be empty."
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:490
+#, php-format
+msgid ""
+"The author of the following post has not yet set the link to his/her Google+ "
+"profile: %s"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:498
+#, php-format
+msgid ""
+"The Google+ link could not be found on this page: %1$s. Please make sure "
+"that the author of this post has entered his/her Google+ link."
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:502
+msgid "The authors Google+ link was found. Perfect!"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:503
+msgid "Now you can check this page with the Google Rich Snippets Testing Tool."
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:503
+msgid "Test now"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:509
+msgid "The link to your Google+ page (Publishership) was not found."
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:512
+msgid "The link to your Google+ page (Publishership) was found. Nice!"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:560
+msgid "More Plugins by WPBuddy"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:607
+msgid "Need help?"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:608
+msgid "Click here to expand the help section."
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:620
+msgid "Not now!"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:698
+#: ../../classes/wpb_google_author_settings.php:496
+msgid "Our Google+ page"
+msgstr ""
+
+#: ../../classes/wpb_google_author.php:771
+msgid "Google+"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:47
+msgid ""
+"This plugin will replace your author link in your theme with your Google+ "
+"Profile link to make sure that your Google+ profile picture will be shown at "
+"the Google search results."
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:49
+msgid ""
+"Alternatively the link can be included in the content if your theme does not "
+"show the author  link."
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:64
+msgid "A) Set up authorship by linking your content to your Google+ profile"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:68
+#, php-format
+msgid "Follow this link to open your Google+ profile: %s"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:70
+msgid ""
+"Copy your Profile-URL from the address bar to clipboard (see picture below):"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:75
+#, php-format
+msgid ""
+"Go to your WordPress Admin Panel and click Users » %s. Paste the above "
+"mentioned URL to the field where it says \"Google+\" in the \"Contact Info\" "
+"section."
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:75
+msgid "Your Profile"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:80
+msgid "Click Update Profile."
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:82
+msgid ""
+"Repeat the above steps with all the other WordPress authors on your blog."
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:87
+msgid ""
+"B) Add a reciprocal link back from your profile to the site you just updated"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:91
+#, php-format
+msgid "Follow this link to edit the \"Contributor To\" section: %s"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:93
+#, php-format
+msgid ""
+"A dialog will appear. Scroll down to the \"Contributor to\" section. Click "
+"\"Add custom link\" and enter your website URL: %s"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:95
+#, php-format
+msgid "Optional: For the label you can use your website title: %s"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:97
+msgid "If you want, click the drop-down list to specify who can see the link."
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:99
+msgid "Click Save."
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:101
+msgid "Tell your authors that they should also do step B."
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:106
+msgid "C) Test"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:110
+msgid ""
+"To see what author data Google can extract from your page, use the Rich "
+"Snippet Testing Tool. For this use the buttons in the Test-Area on this page."
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:113
+msgid ""
+"If Google cannot extract your profile picture, please read the FAQ which you "
+"can find on our website:"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:113
+msgid "Open the documentation now."
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:177
+msgid "Installation manual"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:180
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:183
+msgid "Report a bug"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:186
+msgid "Request a function"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:189
+msgid "Submit a translation"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:192
+msgid "More cool stuff by WPBuddy"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:257
+msgid "Your first name"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:259
+msgid "Your E-Mail address"
+msgstr ""
+
+#: ../../classes/wpb_google_author_metaboxes.php:261
+msgid "Subscribe"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:62
+msgid "Post/Page to test"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:75
+msgid "Author Settings"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:82
+msgid "Frontpage authors"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:91
+msgid "Category authors"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:100
+msgid "Tag authors"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:109
+msgid "Choose the post types to use with the plugin"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:117
+#: ../../classes/wpb_google_author_settings.php:198
+msgid "Standard Integration"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:125
+msgid "Show or hide the link?"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:133
+msgid "Where to show the link in the content"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:141
+#: ../../classes/wpb_google_author_widget.php:118
+msgid "Open the link in a new window?"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:150
+#: ../../classes/wpb_google_author_widget.php:123
+msgid "Link text"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:168
+msgid "Display in Feed?"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:182
+msgid "Publisher Settings"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:189
+msgid "Google+ Page URL"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:207
+msgid "Google+ Page Link text"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:216
+msgid "Link styles"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:230
+msgid "General Settings"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:237
+msgid "Purchase Code"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:277
+msgid "Replace author link with the authors Google+ link"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:277
+msgid "This will probably not work with some themes."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:279
+msgid "Put it into the header"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:279
+msgid "This is not visible to the visitors but for Google only"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:281
+msgid "Show the link in the widget-area."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:281
+msgid ""
+"Please save this settings and go to your widget settings to add the widget."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:283
+msgid "Show it in the content-area"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:283
+msgid "See the settings below for more information"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:285
+msgid ""
+"Not every theme shows the Author-Link right beside a page or a post. In this "
+"case activate the link to be included in the content."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:307
+msgid "Hide"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:309
+msgid "Show"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:311
+msgid "Please note that Google does not like hidden links."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:335
+msgid "Before the content"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:336
+msgid "After the content"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:337
+msgid "Before and after the content"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:453
+msgid "Enter your purchase code in order to get automatic updates!"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:453
+msgid "Click here if you do not know where to find your purchase code."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:466
+msgid ""
+"Enter the URL to your Google+ page (if any) to link your Google+ page with "
+"your website."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:466
+msgid ""
+"Help: Click here to learn more about Google's Publishership (Question 10)"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:483
+msgid "In the header (not visible for the visitors)"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:484
+msgid "In the footer"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:485
+msgid ""
+"Whether the link should be displayed in the header (not visible to the "
+"visitor) rather than in the footer."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:520
+msgid "Start typing to select a post"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:522
+msgid "Start testing..."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:530
+#: ../../classes/wpb_google_author_settings.php:558
+#: ../../classes/wpb_google_author_settings.php:586
+msgid "Start typing to select a user"
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:551
+msgid ""
+"Please select the users that will be displayed as authors for the front or "
+"home page."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:579
+msgid ""
+"Please select the users that will be displayed as authors for category pages."
+msgstr ""
+
+#: ../../classes/wpb_google_author_settings.php:607
+msgid ""
+"Please select the users that will be displayed as authors for tag pages."
+msgstr ""
+
+#: ../../classes/wpb_google_author_widget.php:26
+#: ../../classes/wpb_google_author_widget.php:110
+msgid "Google+ Author"
+msgstr ""
+
+#: ../../classes/wpb_google_author_widget.php:27
+msgid "Add the Google+ Authorship Link to your sidebar."
+msgstr ""
+
+#: ../../classes/wpb_google_author_widget.php:113
+msgid "Title"
+msgstr ""
+
+#: ../../classes/wpb_plugin.php:704
+#, php-format
+msgid ""
+"You should consider entering you purchase code for the %s plugin because you "
+"get every update immediately delivered to your WordPress installation."
+msgstr ""
