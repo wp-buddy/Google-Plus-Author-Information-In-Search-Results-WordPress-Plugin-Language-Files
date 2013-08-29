@@ -2,135 +2,135 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Google+ Author Information in Search Results WordPress "
 "Plugin\n"
-"POT-Creation-Date: 2013-08-01 10:35+0100\n"
-"PO-Revision-Date: 2013-08-01 10:35+0100\n"
-"Last-Translator: Florian Simeth <florian.simeth@online.de>\n"
+"POT-Creation-Date: 2013-08-29 11:34+0100\n"
+"PO-Revision-Date: 2013-08-29 11:34+0100\n"
+"Last-Translator: WP-Buddy <info@wp-buddy.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.5.7\n"
 "X-Poedit-KeywordsList: _;__;_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ../..\n"
 
-#: ../../classes/wpb_google_author.php:198
+#: ../../classes/wpb_google_author.php:220
 msgid "Google+ Author Information"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:221
+#: ../../classes/wpb_google_author.php:243
 msgid "General"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:224
+#: ../../classes/wpb_google_author.php:246
 msgid "Help"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:227
+#: ../../classes/wpb_google_author.php:249
 msgid "Test Authorship"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:230
-#: ../../classes/wpb_google_author.php:559
+#: ../../classes/wpb_google_author.php:252
+#: ../../classes/wpb_google_author.php:582
 msgid "Settings"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:233
+#: ../../classes/wpb_google_author.php:255
 msgid "About"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:236
+#: ../../classes/wpb_google_author.php:258
 msgid "Helpful links"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:239
+#: ../../classes/wpb_google_author.php:261
 msgid "Like this plugin?"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:242
+#: ../../classes/wpb_google_author.php:264
 msgid "Keep up-to-date"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:248
+#: ../../classes/wpb_google_author.php:270
 msgid "Google+ Author Information Settings"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:441
+#: ../../classes/wpb_google_author.php:464
 msgid "Could not test this page."
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:447
+#: ../../classes/wpb_google_author.php:470
 msgid "Please choose at least one post type below."
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:478
+#: ../../classes/wpb_google_author.php:501
 #, php-format
 msgid ""
 "The page with the URL %1$s could not be verified. The site delivered a page "
 "with the status code %2$s (%3$s)."
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:483
+#: ../../classes/wpb_google_author.php:506
 msgid "The page you have selected seems to be empty."
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:490
+#: ../../classes/wpb_google_author.php:513
 #, php-format
 msgid ""
 "The author of the following post has not yet set the link to his/her Google+ "
 "profile: %s"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:498
+#: ../../classes/wpb_google_author.php:521
 #, php-format
 msgid ""
 "The Google+ link could not be found on this page: %1$s. Please make sure "
 "that the author of this post has entered his/her Google+ link."
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:502
+#: ../../classes/wpb_google_author.php:525
 msgid "The authors Google+ link was found. Perfect!"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:503
+#: ../../classes/wpb_google_author.php:526
 msgid "Now you can check this page with the Google Rich Snippets Testing Tool."
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:503
+#: ../../classes/wpb_google_author.php:526
 msgid "Test now"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:509
+#: ../../classes/wpb_google_author.php:532
 msgid "The link to your Google+ page (Publishership) was not found."
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:512
+#: ../../classes/wpb_google_author.php:535
 msgid "The link to your Google+ page (Publishership) was found. Nice!"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:560
+#: ../../classes/wpb_google_author.php:583
 msgid "More Plugins by WPBuddy"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:607
+#: ../../classes/wpb_google_author.php:630
 msgid "Need help?"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:608
+#: ../../classes/wpb_google_author.php:631
 msgid "Click here to expand the help section."
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:620
+#: ../../classes/wpb_google_author.php:643
 msgid "Not now!"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:698
+#: ../../classes/wpb_google_author.php:721
 #: ../../classes/wpb_google_author_settings.php:496
 msgid "Our Google+ page"
 msgstr ""
 
-#: ../../classes/wpb_google_author.php:771
+#: ../../classes/wpb_google_author.php:794
 msgid "Google+"
 msgstr ""
 
@@ -164,7 +164,7 @@ msgstr ""
 #: ../../classes/wpb_google_author_metaboxes.php:75
 #, php-format
 msgid ""
-"Go to your WordPress Admin Panel and click Users » %s. Paste the above "
+"Go to your WordPress Admin Panel and click Users &raquo; %s. Paste the above "
 "mentioned URL to the field where it says \"Google+\" in the \"Contact Info\" "
 "section."
 msgstr ""
@@ -236,39 +236,39 @@ msgstr ""
 msgid "Open the documentation now."
 msgstr ""
 
-#: ../../classes/wpb_google_author_metaboxes.php:177
+#: ../../classes/wpb_google_author_metaboxes.php:175
 msgid "Installation manual"
 msgstr ""
 
-#: ../../classes/wpb_google_author_metaboxes.php:180
+#: ../../classes/wpb_google_author_metaboxes.php:178
 msgid "Frequently Asked Questions"
 msgstr ""
 
-#: ../../classes/wpb_google_author_metaboxes.php:183
+#: ../../classes/wpb_google_author_metaboxes.php:181
 msgid "Report a bug"
 msgstr ""
 
-#: ../../classes/wpb_google_author_metaboxes.php:186
+#: ../../classes/wpb_google_author_metaboxes.php:184
 msgid "Request a function"
 msgstr ""
 
-#: ../../classes/wpb_google_author_metaboxes.php:189
+#: ../../classes/wpb_google_author_metaboxes.php:187
 msgid "Submit a translation"
 msgstr ""
 
-#: ../../classes/wpb_google_author_metaboxes.php:192
+#: ../../classes/wpb_google_author_metaboxes.php:190
 msgid "More cool stuff by WPBuddy"
 msgstr ""
 
-#: ../../classes/wpb_google_author_metaboxes.php:257
+#: ../../classes/wpb_google_author_metaboxes.php:255
 msgid "Your first name"
 msgstr ""
 
-#: ../../classes/wpb_google_author_metaboxes.php:259
+#: ../../classes/wpb_google_author_metaboxes.php:257
 msgid "Your E-Mail address"
 msgstr ""
 
-#: ../../classes/wpb_google_author_metaboxes.php:261
+#: ../../classes/wpb_google_author_metaboxes.php:259
 msgid "Subscribe"
 msgstr ""
 
@@ -360,7 +360,9 @@ msgid "Put it into the header"
 msgstr ""
 
 #: ../../classes/wpb_google_author_settings.php:279
-msgid "This is not visible to the visitors but for Google only"
+msgid ""
+"This is not visible to the visitors but for Google only. <strong>recommended "
+"option</strong>."
 msgstr ""
 
 #: ../../classes/wpb_google_author_settings.php:281
@@ -451,24 +453,24 @@ msgstr ""
 msgid "Start testing..."
 msgstr ""
 
-#: ../../classes/wpb_google_author_settings.php:530
-#: ../../classes/wpb_google_author_settings.php:558
-#: ../../classes/wpb_google_author_settings.php:586
+#: ../../classes/wpb_google_author_settings.php:531
+#: ../../classes/wpb_google_author_settings.php:561
+#: ../../classes/wpb_google_author_settings.php:591
 msgid "Start typing to select a user"
 msgstr ""
 
-#: ../../classes/wpb_google_author_settings.php:551
+#: ../../classes/wpb_google_author_settings.php:554
 msgid ""
 "Please select the users that will be displayed as authors for the front or "
 "home page."
 msgstr ""
 
-#: ../../classes/wpb_google_author_settings.php:579
+#: ../../classes/wpb_google_author_settings.php:584
 msgid ""
 "Please select the users that will be displayed as authors for category pages."
 msgstr ""
 
-#: ../../classes/wpb_google_author_settings.php:607
+#: ../../classes/wpb_google_author_settings.php:614
 msgid ""
 "Please select the users that will be displayed as authors for tag pages."
 msgstr ""
@@ -486,7 +488,7 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
-#: ../../classes/wpb_plugin.php:704
+#: ../../classes/wpb_plugin.php:707
 #, php-format
 msgid ""
 "You should consider entering you purchase code for the %s plugin because you "
